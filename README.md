@@ -1,4 +1,4 @@
-# Threat Hunts
+# Threat Hunting
 
 Threat hunt reports, written to the PEAK and TaHiTI structure.
 
